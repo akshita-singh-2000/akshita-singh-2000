@@ -1,4 +1,4 @@
-![Akshita_SIngh Banner Image](./banner.png)
+![Akshita_SIngh Banner Image](./Banner.png)
 
 
 # About Me:
