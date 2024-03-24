@@ -1,4 +1,7 @@
-# Hi, I'm Akshita
+![Akshita_SIngh Banner Image](./banner.png)
+
+
+# About Me:
 
 🎓 <i>Currently </i>: MS Data Analytics with ML major at Northeastern University. </br>
 🎓 <i>Previous </i>: BEng Information Technology with Data Science major at Mumbai University.</br>
