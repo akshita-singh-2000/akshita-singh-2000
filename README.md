@@ -1,6 +1,6 @@
 # Hi, I'm Akshita
 
-🎓 <i>Currently</i>: MS Data Analytics with ML major at Northeastern University. </br>
+🎓 <i>Currently </i>: MS Data Analytics with ML major at Northeastern University. </br>
 🎓 <i>Previous </i>: BEng Information Technology with Data Science major at Mumbai University.</br>
 💻 Proficient in Python,SQL,R, and various data science libraries.</br>
 💼 Experienced in streamlining data processes and devising efficient solutions.</br>
