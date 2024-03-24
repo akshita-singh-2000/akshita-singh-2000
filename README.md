@@ -1,7 +1,7 @@
 # Hi, I'm Akshita
 
-🎓 Currently: MS Data Analytics with ML major at Northeastern University. </br>
-🎓 Previous: BEng Information Technology with Data Science major at Mumbai University.</br>
+🎓 <i>Currently</i>: MS Data Analytics with ML major at Northeastern University. </br>
+🎓 <i>Previous </i>: BEng Information Technology with Data Science major at Mumbai University.</br>
 💻 Proficient in Python,SQL,R, and various data science libraries.</br>
 💼 Experienced in streamlining data processes and devising efficient solutions.</br>
 ⚽ Passionate about sports, particularly badminton and soccer.</br>
@@ -14,6 +14,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akshita-singh-2000&theme=omni&hide_border=false)<br/>
 
-## 🌐 Socials:
+## 📫 How to reach me:
+<a href="mailto:singh.akshi@northeastern.edu">![singh.akshi@northeastern.edu](https://img.shields.io/badge/Outlook-%230077B5.svg?logo=Gmail&logoColor=white)</a> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/singh-akshi) 
 
