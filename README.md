@@ -2,7 +2,7 @@
 
 
 # About Me:
- <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+ <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 🎓 <i>Currently </i>: MS Data Analytics with ML major at Northeastern University. </br>
 🎓 <i>Previous </i>: BEng Information Technology with Data Science major at Mumbai University.</br>
 💻 Proficient in Python,SQL,R, and various data science libraries.</br>
