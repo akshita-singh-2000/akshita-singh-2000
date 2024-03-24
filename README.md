@@ -2,7 +2,7 @@
 
 
 # About Me:
- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+ <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 🎓 <i>Currently </i>: MS Data Analytics with ML major at Northeastern University. </br>
 🎓 <i>Previous </i>: BEng Information Technology with Data Science major at Mumbai University.</br>
 💻 Proficient in Python,SQL,R, and various data science libraries.</br>
