@@ -2,7 +2,7 @@
 
 
 # About Me:
-  <div  style="float: right; margin: 10px;"><img align= "right" src="https://condaluna.com/assets/stickers/work.gif" alt="Penguin" width="18%"/> </div>
+  <div  style="float:right; margin-bottom: 50px;"><img align= "right" src="https://condaluna.com/assets/stickers/work.gif" alt="Penguin" width="18%"/> </div>
 🎓 <i>Currently </i>: MS Data Analytics with ML major at Northeastern University. </br>
       🎓 <i>Previous </i>: BEng Information Technology with Data Science major at Mumbai University.</br>
       💻 Proficient in Python, SQL, R, and various data science libraries.</br>
