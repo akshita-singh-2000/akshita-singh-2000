@@ -44,6 +44,15 @@
       - Implemented data pipelines and utilized APIs to integrate data with third-party applications, enhancing usability.
     </td>
   </tr>
+  <tr>
+    <td><img src="./image.png" alt="Sahu Image" width="120" height="115"/></td>
+    <td>
+      <strong>Data Engineer</strong><br>
+      - Leveraged SQL to extract and manipulate data from large-scale relational databases. <br>
+      - Employed Python-based solution to automate weekly KPI reporting, resulting in a 10% reduction in reporting time.<br>
+      - Delivered comprehensive and visually engaging data dashboards and reports using Tableau.<br>
+    </td>
+  </tr>
 </table>
 
 
